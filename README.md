@@ -10,6 +10,6 @@ Replace [ ] (user,Virtual machine image names, first and last paths) as you see 
 
 # USAGE: 
 
-sudo -s
+user:~$ sudo -s
 
-bash ./VMBackup.sh
+root:/home/user# bash ./VMBackup.sh
